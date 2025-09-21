@@ -11,8 +11,8 @@ Purpose: To help you quickly gather hash values for files in a specific folder, 
 
 Functionality: The script searches for files with specified extensions (like .jar, .exe, .zip, .pdf, .docx, .xls, .dll, and .bat), calculates their SHA-256 hash, and then saves the results in both a CSV and a TXT file.
 
-Usage: Simply specify the folder path in the script, run it, and it will automatically generate the output files.
+Usage: Simply specify the folder path in the script, run it, and it will automatically generate the output files.(to run --> bash getBulkHash256.sh)
 
 Output: You will get a CSV file with columns for the file path and the hash, and a TXT file with just the hash values.
 
-With this updated description, anyone can easily understand the purpose and functionality of the script. Let me know if you need any more details or adjustments!
+For VT bulk Uploder --> https://github.com/AHMEDred63/VT-api-with-time-out.git
